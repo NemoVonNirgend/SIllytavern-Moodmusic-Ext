@@ -6,7 +6,7 @@ import { getContext } from '../../../extensions.js';
 // MODIFIED: Added generateRaw
 import { callPopup, eventSource, event_types, generateQuietPrompt, generateRaw } from '../../../../script.js';
 
-const extensionName = "moodmusic-extension";
+const extensionName = "SIllytavern-Moodmusic-Ext";
 const extensionFolderPath = `scripts/extensions/third-party/${extensionName}`;
 const PLUGIN_API_BASE = '/api/plugins/moodmusic';
 const LOG_PREFIX = "[MoodMusic Ext]";
